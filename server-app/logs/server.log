@@ -1,0 +1,421 @@
+[2025-09-30 13:43:53] [INFO] Base de datos inicializada correctamente
+[2025-09-30 13:43:53] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 13:44:32] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 13:44:32] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 13:44:33] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 13:44:33] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 13:56:21] [INFO] Servidor detenido correctamente
+[2025-09-30 13:59:56] [INFO] Base de datos inicializada correctamente
+[2025-09-30 13:59:56] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 14:01:15] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:01:15] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:01:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:01:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:01:30] [INFO] Servidor detenido correctamente
+[2025-09-30 14:22:48] [INFO] Base de datos inicializada correctamente
+[2025-09-30 14:22:48] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 14:23:45] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:23:45] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:23:46] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:24:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:24:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:29:14] [INFO] Base de datos inicializada correctamente
+[2025-09-30 14:29:14] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 14:31:06] [INFO] Servidor detenido correctamente
+[2025-09-30 14:35:11] [INFO] Base de datos inicializada correctamente
+[2025-09-30 14:35:11] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 14:57:06] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:06] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-09-30 14:57:24] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:24] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:25] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:25] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:30] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:57:39] [INFO] Cliente desconectado: admin
+[2025-09-30 14:59:00] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 14:59:00] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:09:49] [INFO] Base de datos inicializada correctamente
+[2025-09-30 15:09:49] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 15:11:07] [INFO] Servidor detenido correctamente
+[2025-09-30 15:12:19] [INFO] Base de datos inicializada correctamente
+[2025-09-30 15:12:19] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 15:24:50] [INFO] Base de datos inicializada correctamente
+[2025-09-30 15:24:50] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 15:26:17] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:26:17] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 15:28:53] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:31:10] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:31:10] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 15:32:52] [INFO] Cliente desconectado: andres
+[2025-09-30 15:32:58] [INFO] Cliente desconectado: jhojan
+[2025-09-30 15:38:06] [INFO] Base de datos inicializada correctamente
+[2025-09-30 15:38:06] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 15:40:15] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:40:15] [WARN] Intento de autenticación fallido para usuario: andres
+[2025-09-30 15:44:47] [INFO] Servidor detenido correctamente
+[2025-09-30 15:48:16] [INFO] Base de datos inicializada correctamente
+[2025-09-30 15:48:16] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 15:48:52] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:48:52] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:48:53] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:54:39] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:54:39] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 15:55:25] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 15:55:25] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 15:58:50] [INFO] Cliente desconectado: andres
+[2025-09-30 16:04:36] [INFO] Cliente desconectado: jhojan
+[2025-09-30 16:07:40] [INFO] Base de datos inicializada correctamente
+[2025-09-30 16:07:40] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 16:10:52] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:10:52] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-09-30 16:10:57] [INFO] Cliente desconectado: admin
+[2025-09-30 16:12:29] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:12:29] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:12:30] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:12:35] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:12:36] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:12:41] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:13:11] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:13:53] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:13:53] [WARN] Intento de autenticación fallido para usuario: andres
+[2025-09-30 16:43:07] [INFO] Base de datos inicializada correctamente
+[2025-09-30 16:43:07] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 16:45:16] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:45:16] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 16:48:48] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 16:48:48] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 16:58:25] [INFO] Cliente desconectado: jhojan
+[2025-09-30 16:58:28] [INFO] Cliente desconectado: andres
+[2025-09-30 17:03:10] [INFO] Base de datos inicializada correctamente
+[2025-09-30 17:03:10] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 17:06:39] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:06:39] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 17:07:01] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:07:01] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 17:12:39] [INFO] Base de datos inicializada correctamente
+[2025-09-30 17:12:39] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 17:12:49] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:12:49] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:13:06] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:13:06] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:13:19] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:13:59] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:13:59] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 17:14:06] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:14:06] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 17:17:48] [INFO] Cliente desconectado: jhojan
+[2025-09-30 17:17:51] [INFO] Cliente desconectado: andres
+[2025-09-30 17:20:12] [INFO] Base de datos inicializada correctamente
+[2025-09-30 17:20:12] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 17:21:09] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:21:09] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 17:21:20] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:21:20] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 17:21:31] [INFO] Cliente desconectado: andres
+[2025-09-30 17:21:35] [INFO] Cliente desconectado: jhojan
+[2025-09-30 17:30:06] [INFO] Base de datos inicializada correctamente
+[2025-09-30 17:30:06] [INFO] Servidor iniciado en puerto: 9999
+[2025-09-30 17:30:30] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:30:30] [WARN] Intento de autenticación fallido para usuario: andres
+[2025-09-30 17:31:24] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:31:24] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-09-30 17:31:35] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-09-30 17:31:35] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-09-30 17:31:45] [INFO] Mensaje enviado de jhojan a usuario 2
+[2025-09-30 17:32:08] [INFO] Mensaje enviado de andres a usuario 3
+[2025-09-30 17:33:44] [INFO] Cliente desconectado: andres
+[2025-09-30 17:33:47] [INFO] Cliente desconectado: jhojan
+[2025-11-05 06:53:08] [INFO] Base de datos inicializada correctamente
+[2025-11-05 06:53:08] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-07 19:05:58] [INFO] Base de datos inicializada correctamente
+[2025-11-07 19:05:58] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-07 19:07:07] [INFO] Base de datos inicializada correctamente
+[2025-11-07 19:07:07] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-07 19:20:39] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-07 19:20:39] [WARN] Intento de autenticación fallido para usuario: jhojan
+[2025-11-11 14:32:48] [INFO] Base de datos inicializada correctamente
+[2025-11-11 14:32:48] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-11 14:33:17] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 14:34:37] [INFO] Servidor detenido correctamente
+[2025-11-11 14:35:08] [INFO] Base de datos inicializada correctamente
+[2025-11-11 14:35:08] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-11 14:35:44] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 14:35:44] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-11 14:36:08] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 14:36:08] [WARN] Intento de autenticación fallido para usuario: jhojan
+[2025-11-11 14:36:18] [INFO] Mensaje enviado de admin a usuario 1
+[2025-11-11 14:38:56] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 14:38:56] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-11-11 14:39:14] [INFO] Mensaje enviado de admin a usuario 3
+[2025-11-11 14:39:50] [INFO] Mensaje enviado de jhojan a usuario 1
+[2025-11-11 14:40:13] [INFO] Cliente desconectado: jhojan
+[2025-11-11 14:40:15] [INFO] Cliente desconectado: admin
+[2025-11-11 18:23:42] [INFO] Servidor detenido correctamente
+[2025-11-11 18:24:08] [INFO] Base de datos inicializada correctamente
+[2025-11-11 18:24:08] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-11 18:24:30] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 18:24:31] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-11 18:24:55] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-11 18:24:55] [INFO] Cliente autenticado: jhojan desde 172.20.0.1
+[2025-11-11 18:25:21] [INFO] Mensaje enviado de jhojan a usuario 1
+[2025-11-11 18:27:39] [INFO] Mensaje enviado de admin a usuario 3
+[2025-11-11 18:27:55] [INFO] Cliente desconectado: jhojan
+[2025-11-11 18:27:56] [INFO] Cliente desconectado: admin
+[2025-11-11 18:28:03] [INFO] Servidor detenido correctamente
+[2025-11-18 04:32:12] [INFO] Base de datos inicializada correctamente
+[2025-11-18 04:32:12] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 05:42:13] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:42:13] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 05:42:52] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:42:52] [WARN] Intento de autenticación fallido para usuario: jhojan
+[2025-11-18 05:45:08] [INFO] Archivo enviado por admin
+[2025-11-18 05:46:13] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:46:13] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 05:46:24] [INFO] Mensaje enviado de andres a usuario 1
+[2025-11-18 05:46:49] [INFO] Mensaje enviado de admin a usuario 2
+[2025-11-18 05:47:02] [INFO] Mensaje enviado de admin a usuario 2
+[2025-11-18 05:47:36] [INFO] Archivo enviado por andres
+[2025-11-18 05:51:00] [INFO] Cliente desconectado: andres
+[2025-11-18 05:51:10] [INFO] Cliente desconectado: admin
+[2025-11-18 05:52:56] [INFO] Base de datos inicializada correctamente
+[2025-11-18 05:52:56] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 05:54:22] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:54:22] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 05:54:45] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:54:45] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 05:54:54] [INFO] Mensaje enviado de andres a usuario 1
+[2025-11-18 05:55:03] [INFO] Cliente desconectado: andres
+[2025-11-18 05:55:05] [INFO] Cliente desconectado: admin
+[2025-11-18 05:56:16] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:56:16] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 05:56:36] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:56:36] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 05:57:28] [INFO] Archivo enviado por andres
+[2025-11-18 05:57:34] [INFO] Cliente desconectado: andres
+[2025-11-18 05:57:36] [INFO] Cliente desconectado: admin
+[2025-11-18 05:58:56] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:58:56] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 05:59:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 05:59:21] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 05:59:56] [INFO] Cliente desconectado: andres
+[2025-11-18 05:59:56] [INFO] Cliente desconectado: admin
+[2025-11-18 06:00:58] [INFO] Base de datos inicializada correctamente
+[2025-11-18 06:00:58] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 06:01:59] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:01:59] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:02:28] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:02:28] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:02:31] [INFO] Cliente desconectado: andres
+[2025-11-18 06:02:32] [INFO] Cliente desconectado: admin
+[2025-11-18 06:04:36] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:04:36] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:05:11] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:05:12] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:05:14] [INFO] Cliente desconectado: andres
+[2025-11-18 06:05:15] [INFO] Cliente desconectado: admin
+[2025-11-18 06:05:39] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:05:39] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:05:49] [INFO] Cliente desconectado: admin
+[2025-11-18 06:06:21] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:06:21] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:06:52] [INFO] Cliente desconectado: admin
+[2025-11-18 06:07:41] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:07:41] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:07:54] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:07:54] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:08:02] [INFO] Cliente desconectado: andres
+[2025-11-18 06:08:03] [INFO] Cliente desconectado: admin
+[2025-11-18 06:11:07] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:11:07] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:11:09] [INFO] Cliente desconectado: admin
+[2025-11-18 06:17:17] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:17:17] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:17:50] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:17:50] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:17:53] [INFO] Cliente desconectado: andres
+[2025-11-18 06:17:53] [INFO] Cliente desconectado: admin
+[2025-11-18 06:24:32] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:24:32] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:25:00] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:25:00] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:25:03] [INFO] Cliente desconectado: admin
+[2025-11-18 06:25:04] [INFO] Cliente desconectado: andres
+[2025-11-18 06:25:40] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:25:40] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:26:55] [INFO] Cliente desconectado: admin
+[2025-11-18 06:27:28] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:27:28] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:28:48] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:28:48] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 06:29:00] [INFO] Cliente desconectado: andres
+[2025-11-18 06:29:01] [INFO] Cliente desconectado: admin
+[2025-11-18 06:32:35] [INFO] Base de datos inicializada correctamente
+[2025-11-18 06:32:35] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 06:33:24] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 06:33:24] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 06:49:41] [INFO] Cliente desconectado: admin
+[2025-11-18 06:49:43] [INFO] Servidor detenido correctamente
+[2025-11-18 06:51:30] [INFO] Base de datos inicializada correctamente
+[2025-11-18 06:51:30] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 07:25:43] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:25:43] [INFO] Cliente desconectado: admin
+[2025-11-18 07:26:06] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:26:06] [INFO] Cliente desconectado: admin
+[2025-11-18 07:26:41] [INFO] Servidor detenido correctamente
+[2025-11-18 07:27:09] [INFO] Base de datos inicializada correctamente
+[2025-11-18 07:27:09] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 07:27:38] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:27:38] [INFO] Cliente desconectado: admin
+[2025-11-18 07:34:41] [INFO] Base de datos inicializada correctamente
+[2025-11-18 07:34:41] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 07:36:07] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:36:08] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 07:36:35] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:36:35] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 07:36:48] [INFO] Mensaje enviado de admin a usuario 2
+[2025-11-18 07:37:00] [INFO] Mensaje enviado de andres a usuario 1
+[2025-11-18 07:39:57] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:40:27] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:41:27] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:41:32] [INFO] Archivo enviado por admin
+[2025-11-18 07:42:27] [INFO] Cliente desconectado: andres
+[2025-11-18 07:42:34] [INFO] Cliente desconectado: admin
+[2025-11-18 07:46:00] [INFO] Base de datos inicializada correctamente
+[2025-11-18 07:46:00] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 07:46:42] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:46:42] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 07:47:16] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:47:16] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 07:47:20] [INFO] Mensaje enviado de andres a usuario 1
+[2025-11-18 07:47:26] [INFO] Archivo enviado por admin
+[2025-11-18 07:48:04] [INFO] Archivo enviado por admin
+[2025-11-18 07:48:34] [INFO] Archivo enviado por admin
+[2025-11-18 07:48:56] [INFO] Cliente desconectado: admin
+[2025-11-18 07:49:01] [INFO] Cliente desconectado: andres
+[2025-11-18 07:52:56] [INFO] Base de datos inicializada correctamente
+[2025-11-18 07:52:56] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 07:53:36] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:53:36] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 07:54:12] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 07:54:12] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 07:54:22] [INFO] Mensaje enviado de admin a usuario 2
+[2025-11-18 07:54:29] [INFO] Archivo enviado por admin
+[2025-11-18 07:56:24] [INFO] Cliente desconectado: andres
+[2025-11-18 07:56:26] [INFO] Cliente desconectado: admin
+[2025-11-18 08:04:17] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:04:17] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:05:30] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:05:30] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 08:05:54] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:05:54] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 08:06:53] [INFO] Cliente desconectado: admin
+[2025-11-18 08:06:55] [INFO] Cliente desconectado: andres
+[2025-11-18 08:09:08] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:09:08] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:09:48] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:09:48] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 08:10:10] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:10:10] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 08:10:18] [INFO] Archivo enviado por andres a usuario 1: ejemploplaca.jpeg
+[2025-11-18 08:11:20] [INFO] Archivo enviado por admin a usuario 2: perrito.jpeg
+[2025-11-18 08:12:55] [INFO] Cliente desconectado: admin
+[2025-11-18 08:12:57] [INFO] Cliente desconectado: andres
+[2025-11-18 08:17:21] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:17:21] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:18:13] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:18:13] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 08:18:19] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:18:19] [INFO] Cliente autenticado: andres desde 172.20.0.1
+[2025-11-18 08:19:32] [INFO] Archivo enviado por admin a usuario 2: perrito.jpeg
+[2025-11-18 08:20:11] [INFO] Archivo enviado por andres a usuario 1: firmajuver.png
+[2025-11-18 08:20:24] [INFO] Archivo enviado por admin a usuario 2: Taller Calculo Estocastico.pdf
+[2025-11-18 08:20:45] [INFO] Cliente desconectado: andres
+[2025-11-18 08:20:48] [INFO] Cliente desconectado: admin
+[2025-11-18 08:28:50] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:28:50] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:34:30] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:34:30] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:41:32] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:41:32] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:43:55] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-18 08:43:55] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-18 08:44:02] [INFO] Archivo enviado por admin a usuario 1: Plantillas para cartas de amor.jpeg
+[2025-11-18 08:47:40] [INFO] Cliente desconectado: admin
+[2025-11-18 08:50:39] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:50:39] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 08:54:56] [INFO] Servidor detenido correctamente
+[2025-11-18 08:55:55] [INFO] Base de datos inicializada correctamente
+[2025-11-18 08:55:55] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 09:01:12] [INFO] Base de datos inicializada correctamente
+[2025-11-18 09:01:12] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 09:21:07] [INFO] Base de datos inicializada correctamente
+[2025-11-18 09:21:07] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-18 14:37:02] [INFO] Servidor detenido correctamente
+[2025-11-24 07:34:30] [INFO] Base de datos inicializada correctamente
+[2025-11-24 07:34:30] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 07:54:50] [INFO] Base de datos inicializada correctamente
+[2025-11-24 07:54:50] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:09:22] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:09:22] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:17:54] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:17:54] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:23:45] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:23:45] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:30:41] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:30:41] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:40:56] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:40:56] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:44:32] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-24 08:44:32] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-24 08:45:25] [INFO] Cliente desconectado: admin
+[2025-11-24 08:46:33] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:46:33] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:53:05] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:53:05] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 08:54:17] [INFO] Nueva conexión desde: 172.20.0.1
+[2025-11-24 08:54:17] [INFO] Cliente autenticado: admin desde 172.20.0.1
+[2025-11-24 08:57:16] [INFO] Cliente desconectado: admin
+[2025-11-24 08:59:19] [INFO] Base de datos inicializada correctamente
+[2025-11-24 08:59:19] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 09:02:44] [INFO] Base de datos inicializada correctamente
+[2025-11-24 09:02:44] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-24 09:07:06] [INFO] Base de datos inicializada correctamente
+[2025-11-24 09:07:06] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-25 10:17:04] [INFO] Base de datos inicializada correctamente
+[2025-11-25 10:17:05] [INFO] Servidor iniciado en puerto: 9999
+[2025-11-25 10:22:28] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 10:22:28] [WARN] Intento de autenticación fallido para usuario: brayan
+[2025-11-25 10:56:15] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 10:56:17] [INFO] Cliente autenticado: admin desde 172.19.0.1
+[2025-11-25 10:56:39] [INFO] Archivo enviado por admin a usuario 1: figura1_diagrama_bloques_sistema_voz.png
+[2025-11-25 10:56:58] [INFO] Archivo enviado por admin a usuario 1: barca.jpg
+[2025-11-25 10:57:13] [INFO] Cliente desconectado: admin
+[2025-11-25 10:57:33] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 12:49:56] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 12:49:57] [INFO] Cliente autenticado: admin desde 172.19.0.1
+[2025-11-25 13:01:15] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:01:15] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:01:15] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:01:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:01:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:02:14] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:03:14] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:03:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:04:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:05:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:07:14] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:07:30] [INFO] Cliente desconectado: admin
+[2025-11-25 13:09:39] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:09:39] [WARN] Intento de autenticación fallido para usuario: brayan
+[2025-11-25 13:10:44] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:10:44] [WARN] Intento de autenticación fallido para usuario: brayan2
+[2025-11-25 13:12:24] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:12:24] [WARN] Intento de autenticación fallido para usuario: brayan12
+[2025-11-25 13:13:22] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:13:22] [WARN] Intento de autenticación fallido para usuario: brayan12
+[2025-11-25 13:15:30] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:15:30] [WARN] Intento de autenticación fallido para usuario: brayan
+[2025-11-25 13:16:31] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:16:31] [WARN] Intento de autenticación fallido para usuario: brayan
+[2025-11-25 13:16:51] [INFO] Nueva conexión desde: 172.19.0.1
+[2025-11-25 13:16:51] [WARN] Intento de autenticación fallido para usuario: juan
